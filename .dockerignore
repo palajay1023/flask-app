@@ -1,0 +1,9 @@
+.flaskenv
+.env_backend
+__pychache__
+Dockerfile
+README.md
+*.pyc
+*.pyo
+*.pyd
+
